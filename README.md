@@ -1,6 +1,3 @@
-# sprint-3-python-project
-Project in python for Sprint 3
-
 readme_text = """# Video Game Sales Analysis
 
 ## Description
