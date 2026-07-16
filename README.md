@@ -1,9 +1,7 @@
-readme_text = """# Video Game Sales Analysis
+# Video Game Sales Analysis
 
 ## Description
-Analysis of the top ranked games using sales metrics
+Analysis over the sales of 20 games in NA, EU, JP, and Globally. Setup lists and dictionaries to showcase certain topics.
 
 ## Dataset Source
-video_game_sales"""
-
-print(readme_text)
+video_game_sales
